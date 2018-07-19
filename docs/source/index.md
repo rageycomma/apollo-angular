@@ -33,7 +33,7 @@ Getting started is as simple as installing a few libraries from [npm](https://np
 
 We want you to love working with Apollo Client, so we work extra hard to make sure it works with the client or server tools you're already using! The maintainers and contributors focus on solving the hard problems around GraphQL caching, request management, and UI updating, and we want that to be available to anyone regardless of their technical requirements and preferences for other parts of the app.
 
-<h3 id="angular-toolbox" title="Perfect for Angular">The Angular toolbox</h3>
+<h3 id="angular-toolbox" title="The Angular toolbox">The Angular toolbox</h3>
 
 Apollo is lovingly designed to work nicely with all of the tools used by today's Angular developers. Here are some in particular:
 
